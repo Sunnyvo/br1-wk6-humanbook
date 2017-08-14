@@ -18,3 +18,4 @@ A Facebook clone for the Bootcamp Ruby class.
 - [ ] User can log in with Facebook
 - [ ] User can post on her wall
 - [ ] User can view someone else's wall
+# week6-1
