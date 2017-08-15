@@ -52,3 +52,5 @@ gem "font-awesome-rails"
 gem "jquery-rails"
 gem 'omniauth'
 gem 'omniauth-facebook', '~> 4.0.0'
+
+gem 'carrierwave', '~> 1.0'
