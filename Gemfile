@@ -52,3 +52,7 @@ gem "font-awesome-rails"
 gem "jquery-rails"
 gem 'omniauth'
 gem 'omniauth-facebook', '~> 4.0.0'
+<<<<<<< HEAD
+=======
+gem 'trestle'
+>>>>>>> 6e79840f35a679506ea7f6c88504ecf6a00b3fe1
